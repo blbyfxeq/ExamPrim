@@ -1,0 +1,2 @@
+C:\i21\KropotovaExam1\Books\obj\Debug\Books.csprojAssemblyReference.cache
+C:\i21\KropotovaExam1\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
